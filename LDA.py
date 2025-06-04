@@ -170,7 +170,7 @@ def replace_outliers_with_median(df):
         median = df[column].median()
         df_cleaned.loc[outliers, column] = median
 
-        print(f"{column}: Replaced {outliers.sum()} outlier(s) with median.")
+        #print(f"{column}: Replaced {outliers.sum()} outlier(s) with median.")
 
     return df_cleaned
 
