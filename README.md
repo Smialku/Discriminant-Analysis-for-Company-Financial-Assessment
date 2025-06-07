@@ -16,12 +16,10 @@ This project applies **Linear Discriminant Analysis (LDA)** to classify companie
 
 ```bash
 pip install -r requirements.txt
-Run the app:
 
-bash
-Kopiuj
-Edytuj
+Run the app:
 python LDA.py
+
 Open in your browser: http://127.0.0.1:8050
 
 Interpretation
