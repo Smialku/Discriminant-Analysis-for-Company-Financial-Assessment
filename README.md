@@ -1,8 +1,8 @@
-# 📊 Financial Health Assessment Using Linear Discriminant Analysis (LDA)
+# Financial Health Assessment Using Linear Discriminant Analysis (LDA)
 
 This project applies **Linear Discriminant Analysis (LDA)** to classify companies as **bankrupt** or **non-bankrupt** based on financial indicators. It includes preprocessing steps and visualizations, all presented in a Dash-based interactive dashboard.
 
-## 🚀 Features
+##  Features
 
 - Preprocessing (normality test, Box-Cox transformation, outlier removal)
 - LDA model and decision boundary
@@ -10,7 +10,7 @@ This project applies **Linear Discriminant Analysis (LDA)** to classify companie
 - Dashboard built with Dash and Plotly
 
 
-How to Run
+## How to Run
 
 1. Install dependencies:
 
