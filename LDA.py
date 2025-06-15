@@ -314,7 +314,7 @@ app = dash.Dash(__name__)
 
 # Define layout
 app.layout = html.Div([
-    html.H1("📊 Using Linear Discriminant Analysis to Assess the Financial Situation of Enterprises", style={'textAlign': 'center'}),
+    html.H1(" Using Linear Discriminant Analysis to Assess the Financial Situation of Enterprises", style={'textAlign': 'center'}),
 
     html.H2("1. Basic Descriptive Statistics:  data.describe()", style={'marginTop': '20px'}),
 
